@@ -36,8 +36,8 @@
 
 ### 📫 Let's Connect
 
-- 🌐 [Portfolio (coming soon)](https://your-portfolio-link.com)
-- 📧 shrutinitturkar@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shruti-nitturkar)
+- 🌐 [Portfolio](https://nitturkarshruti.github.io/portfolio/)
+- 📧 shrutinitturkar1996@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shruti-nitturkar-5b9624102/)
 
 ---
